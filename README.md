@@ -33,41 +33,12 @@ https://yousufshimul.com
 - Laravel
 - Git & GitHub
 
----
 
-## 📂 Project Structure
-portfolio
-│
-├── assets
-│ ├── css
-│ ├── js
-│ └── images
-│
-├── components
-├── pages
-└── index.html
-
-
-
-
----
 
 ## ⚙️ Installation
 
 Clone the repository:
 
-```bash
-git clone https://github.com/themespure/Personal-CV-Portfolio-Website.git
-
-
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
 git clone https://github.com/themespure/Personal-CV-Portfolio-Website.git
 
 
