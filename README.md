@@ -36,3 +36,50 @@ https://yousufshimul.com
 ---
 
 ## 📂 Project Structure
+portfolio
+│
+├── assets
+│ ├── css
+│ ├── js
+│ └── images
+│
+├── components
+├── pages
+└── index.html
+
+
+
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/themespure/Personal-CV-Portfolio-Website.git
+
+
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/themespure/Personal-CV-Portfolio-Website.git
+
+
+I am a Laravel Backend Developer with experience in building scalable web applications, APIs, and backend systems.
+
+I enjoy solving complex backend problems and building efficient systems.
+
+
+📬 Contact
+
+📧 Email: megetinfo24@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/yousufshimul/
+
+🐙 GitHub: https://github.com/themespure
